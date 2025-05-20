@@ -12,8 +12,7 @@
 - Anderson, S. (2018). Legal origind and female HIV. _American Economic Review_, **108**(6), 1407-1439.
 
 ## Empirical Industrial Organization
-- Kaneko, S. and Y. Toyama (2025). Demand-estimation with flexible income effect: an application to pass-through and merger analysis. _Journal of Industrial Economics_, **73**(1
-, 186-233.
+- Kaneko, S. and Y. Toyama (2025). Demand-estimation with flexible income effect: an application to pass-through and merger analysis. _Journal of Industrial Economics_, **73**(1), 186-233.
 ## Notes 
 - These review slides are made just for myself.
 - Any comments are welcomed!!!
