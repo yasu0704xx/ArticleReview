@@ -3,8 +3,8 @@
 - Roth, J. and P. H. C. Sant'Anna (2023). When is parallel trends sensitive to functional form? _Econometrica_, **91**(2), 737-747.
 
 ### Under Preparation
-- Berk, R., Brown, L., Buja, A., Zhang, K., and Zhao, L. (2013). Valid post-selection inference. _Annals of Statistics_, **41**(2), 802–837.
-- Cattaneo, M. D., Jansson, M., and Ma, X. (2020). Simple local polynomial density estimators. _Journal of the American Statistical Association_, **115**(531), 1449–1455.
+- Berk, R., L. Brown, A. Buja, K. Zhang, and L. Zhao (2013). Valid post-selection inference. _Annals of Statistics_, **41**(2), 802–837.
+- Cattaneo, M. D., M. Jansson, and X. Ma (2020). Simple local polynomial density estimators. _Journal of the American Statistical Association_, **115**(531), 1449–1455.
 - Roth, J. (2022). Pretest with caution: event-study estimates after testing for parallel trends. _American Economic Review: Insights_, **4**(3), 305-322.
 
 
