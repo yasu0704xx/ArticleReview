@@ -8,7 +8,7 @@
 
 ## Empirical Industrial Organization
 - Kaneko, S. and Y. Toyama (2025). Demand-estimation with flexible income effect: an application to pass-through and merger analysis. _Journal of Industrial Economics_, **73**(1), 186-233.
-- 
+- Kawai, K., J. Nakabayashi, J. Ortner and S. Chassang (2023). Using bid rotation and incumbency to detect collusion: a regression discontinuity approach. _Review of Economic Studies_, **90**, 376-403.
 ## Notes 
 - These review slides are made just for myself.
 - Any comments are welcomed!!!
