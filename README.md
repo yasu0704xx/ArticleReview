@@ -12,7 +12,7 @@
 ## Notes 
 - These review slides are made just for myself.
 - Any comments are welcomed!!!
-- Contact: yasu0704xx [at] gmail.com
-- Website: https://yasu0704xx.github.io
+- Contact: [matsumura.yasuyuki.w85@kyoto-u.jp](mailto:matsumura.yasuyuki.w85@kyoto-u.jp)
+- Website: [https://yasu0704xx.github.io](https://yasu0704xx.github.io)
 
 
